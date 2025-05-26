@@ -1,16 +1,49 @@
-## Hi there 👋
+# Hi there, I'm Md Rakibul Islam Raju 👋
 
-<!--
-**oralinnet/oralinnet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🏠 Working from home  
+🌍 Bangladesh  
+🔗 [oralin.net](https://oralin.net)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+
+- **Linux System Administrator** & **Oracle DBA**
+- Passionate about open-source, automation, and cloud technologies.
+- Always eager to learn and share knowledge with the community.
+
+---
+
+## 🛠️ Technologies & Tools
+
+- **Operating Systems:** Linux (RHEL, CentOS, Ubuntu)
+- **Databases:** Oracle, MySQL, Postgresql, Minio 
+- **DevOps:** Ansible, Jenkins, Docker, Kubernetes
+- **Monitoring:** Zabbix, Prometheus
+- **Web Servers:** NGINX, Apache
+
+---
+
+## 📈 GitHub Stats
+
+![oralinnet's GitHub stats](https://github-readme-stats.vercel.app/api?username=oralinnet&show_icons=true&theme=radical)
+
+---
+
+## 📂 Featured Projects
+
+- [RHCE with Ansible](https://github.com/oralinnet/RHCE)
+- [Kubernetes Cluster Manager](https://github.com/oralinnet/kubernetes)
+- [Zabbix Template Speedtest](https://github.com/oralinnet/zabbix-template-speedtest)
+- [NGINX Reverse Proxy](https://github.com/oralinnet/nginx-reverse-proxy)
+- [Jenkins Zero To Hero](https://github.com/oralinnet/Jenkins-Zero-To-Hero)
+
+---
+
+## 📫 How to reach me
+
+- 🌐 [oralin.net](https://oralin.net)
+
+---
+
+Thanks for visiting my profile! 😊
