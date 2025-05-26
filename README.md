@@ -1,8 +1,7 @@
 # Hi there, I'm Md Rakibul Islam Raju 👋
 
 🏠 Working from home  
-🌍 Bangladesh  
-🔗 [oralin.net](https://oralin.net)
+🌍 Bangladesh
 
 ---
 
