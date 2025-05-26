@@ -42,7 +42,7 @@
 
 ## 📫 How to reach me
 
-- 🌐 [oralin.net](https://oralin.net)
+- 🌐 [Linkedin]([https://oralin.net](https://www.linkedin.com/in/md-rakibul-islam-raju-8202906a/))
 
 ---
 
