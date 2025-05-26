@@ -8,7 +8,7 @@
 
 ## 👨‍💻 About Me
 
-- **Linux System Administrator** & **Oracle DBA**
+- **Linux System Administrator** & **Database Administrator**
 - Passionate about open-source, automation, and cloud technologies.
 - Always eager to learn and share knowledge with the community.
 
@@ -17,7 +17,7 @@
 ## 🛠️ Technologies & Tools
 
 - **Operating Systems:** Linux (RHEL, CentOS, Ubuntu)
-- **Databases:** Oracle, MySQL, Postgresql, Minio 
+- **Databases:** Oracle, MySQL, Postgresql, Minio, MongoDB 
 - **DevOps:** Ansible, Jenkins, Docker, Kubernetes
 - **Monitoring:** Zabbix, Prometheus
 - **Web Servers:** NGINX, Apache
