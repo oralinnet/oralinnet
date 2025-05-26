@@ -32,6 +32,7 @@
 ## 📂 Featured Projects
 
 - [RHCE with Ansible](https://github.com/oralinnet/RHCE)
+- [PostgreSQL](https://github.com/oralinnet/PostgreSQL)
 - [Kubernetes Cluster Manager](https://github.com/oralinnet/kubernetes)
 - [Zabbix Template Speedtest](https://github.com/oralinnet/zabbix-template-speedtest)
 - [NGINX Reverse Proxy](https://github.com/oralinnet/nginx-reverse-proxy)
